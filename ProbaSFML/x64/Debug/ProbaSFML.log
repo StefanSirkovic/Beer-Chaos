@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ProbaSFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+D:\Stefan\Projekti\C i C++ programiranje\Op1\ProbaSFML\ProbaSFML\Game.cpp(238,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ProbaSFML.vcxproj -> D:\Stefan\Projekti\C i C++ programiranje\Op1\ProbaSFML\x64\Debug\ProjekatPivo.exe
