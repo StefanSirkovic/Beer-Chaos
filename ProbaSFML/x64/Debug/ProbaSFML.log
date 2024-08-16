@@ -1,4 +1,52 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ProbaSFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Gajba.cpp
+  GajbaIzvedena.cpp
   Game.cpp
-D:\Stefan\Projekti\C i C++ programiranje\Op1\ProbaSFML\ProbaSFML\Game.cpp(238,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  ProbaSFML.vcxproj -> D:\Stefan\Projekti\C i C++ programiranje\Op1\ProbaSFML\x64\Debug\ProjekatPivo.exe
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Game.cpp(238,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Menu.cpp
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(11,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(11,85): warning C4244:         with
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(11,85): warning C4244:         [
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(11,85): warning C4244:             T=float
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(11,85): warning C4244:         ]
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(11,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(11,43): warning C4244:         with
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(11,43): warning C4244:         [
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(11,43): warning C4244:             T=float
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(11,43): warning C4244:         ]
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(17,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(17,87): warning C4244:         with
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(17,87): warning C4244:         [
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(17,87): warning C4244:             T=float
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(17,87): warning C4244:         ]
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(17,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(17,44): warning C4244:         with
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(17,44): warning C4244:         [
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(17,44): warning C4244:             T=float
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(17,44): warning C4244:         ]
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(23,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(23,87): warning C4244:         with
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(23,87): warning C4244:         [
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(23,87): warning C4244:             T=float
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(23,87): warning C4244:         ]
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(23,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(23,44): warning C4244:         with
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(23,44): warning C4244:         [
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(23,44): warning C4244:             T=float
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Menu.cpp(23,44): warning C4244:         ]
+  Pivo.cpp
+  Source.cpp
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Source.cpp(8,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Source.cpp(8,51): warning C4244:         with
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Source.cpp(8,51): warning C4244:         [
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Source.cpp(8,51): warning C4244:             T=unsigned int
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Source.cpp(8,51): warning C4244:         ]
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Source.cpp(8,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Source.cpp(8,31): warning C4244:         with
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Source.cpp(8,31): warning C4244:         [
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Source.cpp(8,31): warning C4244:             T=unsigned int
+C:\Users\Stefan\Documents\GitHub\Beer-Chaos\ProbaSFML\Source.cpp(8,31): warning C4244:         ]
+  Generating Code...
+  ProbaSFML.vcxproj -> C:\Users\Stefan\Documents\GitHub\Beer-Chaos\x64\Debug\ProjekatPivo.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

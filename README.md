@@ -20,7 +20,7 @@ To run Beer Chaos on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/beer-chaos.git
+   git clone https://github.com/StefanSirkovic/Beer-Chaos.git
 
 2. Install SFML:
    Make sure you have SFML installed. You can download it from SFML website and follow installation instructions.
